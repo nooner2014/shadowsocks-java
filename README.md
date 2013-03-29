@@ -9,6 +9,7 @@ Only support TABLE encryption.
 For Developers
 -----------
 Example:
+
     Shadowsocks sc = new Shadowsocks("example.com", 1234, "password");
     sc.start(8080);
     // Do other things
